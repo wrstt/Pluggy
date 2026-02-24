@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="80" alt="Pluggy">
+</p>
+
 ```
 ██████╗ ██╗     ██╗   ██╗ ██████╗  ██████╗██╗   ██╗
 ██╔══██╗██║     ██║   ██║██╔════╝ ██╔════╝╚██╗ ██╔╝
@@ -118,8 +122,6 @@ https://example.com/search?q={query}
 * Palined-style discovery mode uses search-engine dorks to find and crawl software/plugin pages
 * Per-source caching, retry logic, stale-cache fallback, and background refresh
 
-![Sources — import link sources with tags and bulk management](branding/screenshot-sources.png)
-
 ---
 
 ## Open Directory Engine
@@ -172,6 +174,8 @@ Crawls Apache-style open directory listings and returns direct file links.
 * Bounded in-memory audit log of settings, provider, transfer, and system events
 * Full diagnostics export (JSON): system verify report + provider details + capabilities + audit feed
 
+![Sources — import link sources with tags and bulk management](branding/screenshot-sources.png)
+
 ![Providers — health status, enable/disable per source](branding/screenshot-providers.png)
 
 ![Link Sources — curated open directories and FTP mirrors with trust scores](branding/screenshot-link-sources.png)
@@ -188,8 +192,6 @@ Crawls Apache-style open directory listings and returns direct file links.
 * Advanced mode toggles persisted per-page in localStorage
 
 ![Settings — Theme Studio with 10 presets, RealDebrid auth, and core settings](branding/screenshot-settings.png)
-
-![Settings — Prowlarr integration, hosted-local controls, and core settings](branding/screenshot-settings2.png)
 
 ---
 
