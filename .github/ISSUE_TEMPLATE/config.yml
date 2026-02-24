@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security / Privacy Report
+    url: https://github.com/SSUNOs
+    about: Do not file sensitive vulnerabilities publicly. See SECURITY.md and contact the maintainer privately via GitHub (SSUNOs).

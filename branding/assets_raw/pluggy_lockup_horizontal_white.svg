@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="320" viewBox="0 0 1024 320">
+  <g transform="translate(64,32) scale(0.55)">
+    <g fill="#ffffff">
+    <!-- prongs -->
+    <rect x="206" y="72" width="40" height="96" rx="20"/>
+    <rect x="266" y="72" width="40" height="96" rx="20"/>
+    <!-- top bar -->
+    <rect x="160" y="148" width="192" height="56" rx="28"/>
+    <!-- body (cup) -->
+    <path d="M184 204
+             C184 264 220 312 256 312
+             C292 312 328 264 328 204
+             Z"/>
+    <!-- stem -->
+    <rect x="236" y="300" width="40" height="92" rx="20"/>
+    <!-- arrow -->
+    <path d="M256 452 L188 384 H324 Z"/>
+    <!-- orbit swoosh -->
+    <path d="M176 318
+             C176 280 210 254 248 254
+             C282 254 304 266 336 292
+             C312 292 294 302 282 316
+             C270 330 268 350 276 370
+             C250 358 224 350 200 350
+             C186 350 176 340 176 318
+             Z"/>
+  </g>
+
+  </g>
+  <text x="360" y="205"
+        font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="140"
+        font-weight="700"
+        fill="#ffffff"
+        letter-spacing="-2">Pluggy</text>
+</svg>

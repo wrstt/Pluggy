@@ -1,0 +1,42 @@
+.DS_Store
+**/.DS_Store
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local envs / caches
+.venv/
+**/.venv/
+.playwright-cli/
+**/.playwright-cli/
+.reports/
+**/.reports/
+.tmp/
+**/.tmp/
+
+# JS/Next
+**/node_modules/
+**/.next/
+
+# Build outputs / releases
+**/.build-contained/
+**/build/
+**/dist/
+**/release/
+**/*.app/
+**/*.dmg
+**/*.zip
+
+# Local runtime / user data
+**/*.db
+**/*.db-*
+**/data/auth-users.json
+**/settings.json
+*.log
+
+# OS / editor misc
+.vscode/
+.idea/

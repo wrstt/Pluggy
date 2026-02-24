@@ -1,0 +1,67 @@
+Pluggy Source-Available License (Non-Commercial, No Modified Redistribution)
+Version 1.0
+
+Copyright (c) 2026 SsLabs
+All rights reserved.
+
+IMPORTANT: This is a source-available license, not an open-source license.
+
+1. Definitions
+
+"Software" means the Pluggy project source code, files, and related materials in this repository.
+
+"Licensor" means SsLabs.
+
+"Commercial Use" means any use primarily intended for commercial advantage or monetary compensation, including selling, licensing, paid hosting, SaaS, consulting bundles, or use within a paid product/service.
+
+"Modified Version" means any version of the Software that has been changed, adapted, translated, extended, or combined with other code in a way that changes behavior or contents.
+
+2. Limited Permission (Non-Commercial Only)
+
+Subject to the terms of this license, you may:
+
+- view, download, and run the Software;
+- make private modifications for personal, educational, research, evaluation, or internal non-commercial use; and
+- share unmodified copies of the Software in source form for non-commercial purposes only, if you keep this license and all copyright notices intact.
+
+3. Restrictions
+
+You may not, without prior written permission from the Licensor:
+
+- use the Software for Commercial Use;
+- sell, sublicense, rent, lease, or otherwise monetize the Software;
+- distribute, publish, or share any Modified Version of the Software (in source or binary form);
+- remove or alter copyright, attribution, or license notices; or
+- use the names "Pluggy" or "SsLabs" (or related logos/branding) in a way that implies endorsement.
+
+4. Contribution / Pull Request Exception
+
+To allow community collaboration, you may share Modified Versions only to the extent necessary to submit patches or pull requests to the official Pluggy repository for review by the Licensor.
+
+By submitting a patch, pull request, or other contribution, you agree that:
+
+- you have the right to submit it; and
+- you grant the Licensor a non-exclusive, worldwide, perpetual, irrevocable, royalty-free license to use, modify, distribute, sublicense, and relicense your contribution as part of the Software.
+
+No separate CLA or DCO is required unless the Licensor later states otherwise for a specific contribution.
+
+5. Ownership
+
+The Software is licensed, not sold. All rights not expressly granted by this license are reserved by the Licensor.
+
+6. Termination
+
+This license terminates automatically if you violate any term. Upon termination, you must stop using and distributing the Software and destroy copies in your possession or control, except where retention is required by law.
+
+7. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR WILL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+9. Governing Terms
+
+If any provision of this license is held unenforceable, the remaining provisions will remain in effect to the maximum extent permitted by law.
+

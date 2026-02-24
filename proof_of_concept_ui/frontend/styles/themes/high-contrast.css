@@ -1,0 +1,9 @@
+:root {
+  --bg-canvas: #000000;
+  --bg-elevated: #0b0b0b;
+  --bg-glass: rgba(15, 15, 15, 0.8);
+  --text-primary: #ffffff;
+  --text-secondary: #e5e7eb;
+  --border-subtle: rgba(255, 255, 255, 0.4);
+  --focus-ring: #ffffff;
+}
